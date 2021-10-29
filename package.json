@@ -1,0 +1,19 @@
+{
+  "name": "farm",
+  "version": "1.0.0",
+  "description": "this project is for the description of nuts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sdsd"
+  ],
+  "author": "megs",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14",
+    "slugify": "^1.6.1"
+  }
+}
